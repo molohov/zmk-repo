@@ -76,7 +76,7 @@
            combos are defined from leftmost key to rightmost key */
 
         /* UPPER ROW */
-        refresh { key-positions = <2 4; bindings = <&kp K_REFRESH>; layers = <DEF>; };
+        refresh { key-positions = <2 4>; bindings = <&kp K_REFRESH>; layers = <DEF>; };
         hash { key-positions = <2 13>; bindings = <&kp HASH>; layers = <DEF>; };
         
         /* MIDDLE ROW */
